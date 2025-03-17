@@ -1,2 +1,7 @@
 # go-kit-app
-Application powered by go-kit
+Applications powered by go-kit
+
+## Application
+### Official Go kit examples
+#### stringsvc1
+
